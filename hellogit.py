@@ -1,1 +1,1 @@
-print("Hello GitHub from vs code")
+print("Learning GitHub with MuroDev")
