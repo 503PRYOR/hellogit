@@ -1,1 +1,1 @@
-print("Learning GitHub with MuroDev")
+print("Second update from course")
